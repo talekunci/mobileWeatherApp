@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileWeatherApp</string>
+    <string name="city_list_type_your_city">Type your city</string>
+    <string name="city_list_search_your_city">Search Your City</string>
+    <string name="max_current_temperature">Max</string>
+    <string name="min_current_temperature">Min</string>
+</resources>

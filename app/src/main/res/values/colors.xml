@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blur_bg_color">#10ffffff</color>
+    <color name="city_list_bg_color">#8F50B3E6</color>
+</resources>
